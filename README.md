@@ -59,25 +59,25 @@
 <body>
   <header>
     <h1>Ginolin Brico</h1>
-    <p>Technicien RÃ©seaux & SystÃ¨mes</p>
+    <p>Technicien Réseaux & Systèmes</p>
   </header>  <section>
-    <h2>Ã€ propos de moi</h2>
+    <h2>À propos de moi</h2>
     <p>
-      DiplÃ´mÃ© en informatique (RÃ©seau et Administration SystÃ¨me), j'ai acquis de l'expÃ©rience en tant que technicien inventaire chez Ambatovy. Je suis motivÃ© Ã  travailler Ã  l'international, notamment au Canada, et passionnÃ© par les technologies rÃ©seau et la gestion des systÃ¨mes informatiques.
+      Diplômé en informatique (Réseau et Administration Système), j'ai acquis de l'expérience en tant que technicien inventaire chez Ambatovy. Je suis motivé à travailler à l'international, notamment au Canada, et passionné par les technologies réseau et la gestion des systèmes informatiques.
     </p>
   </section>  <section>
-    <h2>CompÃ©tences</h2>
+    <h2>Compétences</h2>
     <ul>
-      <li>RÃ©seaux informatiques (Cisco, Mikrotik)</li>
-      <li>Administration systÃ¨mes (Linux, Windows Server)</li>
+      <li>Réseaux informatiques (Cisco, Mikrotik)</li>
+      <li>Administration systèmes (Linux, Windows Server)</li>
       <li>Virtualisation (VMware, VirtualBox)</li>
       <li>Gestion d'inventaire et de parc informatique</li>
-      <li>SÃ©curitÃ© informatique</li>
+      <li>Sécurité informatique</li>
     </ul>
   </section>  <section>
-    <h2>ExpÃ©rience</h2>
+    <h2>Expérience</h2>
     <p><strong>Technicien inventaire - Ambatovy</strong></p>
-    <p>Responsable de la gestion matÃ©rielle et du suivi des Ã©quipements informatiques de lâ€™entreprise.</p>
+    <p>Responsable de la gestion matérielle et du suivi des équipements informatiques de l’entreprise.</p>
   </section>  <section>
     <h2>Contact</h2>
     <form action="mailto:ginoline11@gmail.com" method="POST" enctype="text/plain">
@@ -87,7 +87,7 @@
       <button type="submit">Envoyer</button>
     </form>
   </section>  <footer>
-    <p>Â© 2025 Ginolin Brico. Tous droits rÃ©servÃ©s.</p>
+    <p>© 2025 Ginolin Brico. Tous droits réservés.</p>
   </footer>
 </body>
 </html>
