@@ -48,6 +48,22 @@
     ul {
       padding-left: 1.5rem;
     }
+    form {
+      display: flex;
+      flex-direction: column;
+    }
+    input, textarea {
+      margin-bottom: 1rem;
+      padding: 0.5rem;
+      font-size: 1rem;
+    }
+    button {
+      padding: 0.7rem;
+      background-color: #2980b9;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
     footer {
       background-color: #222;
       color: #ccc;
