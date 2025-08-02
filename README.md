@@ -108,7 +108,13 @@
       <li>Malagasy : langue maternelle</li>
       <li>Chinois : débutant</li>
     </ul>
-
+<h2>Contact</h2>
+    <form action="mailto:ginoline11@gmail.com" method="POST" enctype="text/plain">
+      <input type="text" name="Nom" placeholder="Votre nom" required />
+      <input type="email" name="Email" placeholder="Votre email" required />
+      <textarea name="Message" placeholder="Votre message..." rows="5" required></textarea>
+      <button type="submit">Envoyer</button>
+    </form>
     <h2>Contact</h2>
     <p class="contact">
       Email : <a href="mailto:ginoline11@gmail.com">ginoline11@gmail.com</a><br />
@@ -116,15 +122,8 @@
     </p>
   </section>
   
-<section>
-    <h2>Contact</h2>
-    <form action="mailto:ginoline11@gmail.com" method="POST" enctype="text/plain">
-      <input type="text" name="Nom" placeholder="Votre nom" required />
-      <input type="email" name="Email" placeholder="Votre email" required />
-      <textarea name="Message" placeholder="Votre message..." rows="5" required></textarea>
-      <button type="submit">Envoyer</button>
-    </form>
-  </section>
+
+    
   
   <footer>
     <p>&copy; 2025 Ginolin Brico. Tous droits réservés.</p>
