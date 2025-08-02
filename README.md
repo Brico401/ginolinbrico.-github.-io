@@ -124,7 +124,7 @@
       <li>Malagasy : langue maternelle</li>
       <li>Chinois : débutant</li>
     </ul>
-<h2>Contact</h2>
+<h2>Echange</h2>
     <form action="mailto:ginoline11@gmail.com" method="POST" enctype="text/plain">
       <input type="text" name="Nom" placeholder="Votre nom" required />
       <input type="email" name="Email" placeholder="Votre email" required />
